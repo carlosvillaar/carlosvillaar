@@ -23,6 +23,7 @@ Welcome to my GitHub profile! 🚀 I'm passionate about web development, and I l
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosvillar004@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosvillaar/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mindofzenith)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/carlos.villar)
 <!----- 🌍 [Portfolio](https://yourdomain.com)--->
 
 You're welcome to contribute to my projects or connect with me for collaborations! 🚀
