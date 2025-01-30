@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Carlos Villar!
 
-Welcome to my GitHub profile! 🚀 I'm passionate about web development, and I love technology and video games. Always looking for new challenges and opportunities to learn! 💡
+Welcome to my [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) profile! 🚀 I'm passionate about web development, and I love technology and video games. Always looking for new challenges and opportunities to learn! 💡
 
 ---
 
