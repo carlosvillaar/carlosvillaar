@@ -30,6 +30,8 @@ Welcome to my GitHub profile! 🚀 I'm passionate about web development, and I l
 <!----- 🌍 [Portfolio](https://yourdomain.com)--->
 
 You're welcome to contribute to my projects or connect with me for collaborations! 🚀
+
+[![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/MindOfZenith)
 <!---
 carlosvillaar/carlosvillaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
