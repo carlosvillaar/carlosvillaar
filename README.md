@@ -21,6 +21,7 @@ Welcome to my GitHub profile! 🚀 I'm passionate about web development, and I l
 
 <!---- 💼 [LinkedIn](https://www.linkedin.com/in/yourname/)--->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosvillar004@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosvillaar/)
 <!----- 🌍 [Portfolio](https://yourdomain.com)--->
 
 You're welcome to contribute to my projects or connect with me for collaborations! 🚀
