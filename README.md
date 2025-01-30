@@ -1,8 +1,10 @@
-# 👋 Ciao, sono Carlos!
+# 👋 Hi, I'm Carlos Villar!
 
-Benvenuto sul mio profilo GitHub! 🚀 Sono un appassionato di sviluppo web, amo la tecnologia e i videogiochi. Sempre alla ricerca di nuove sfide e opportunità per imparare! 💡
+Welcome to my GitHub profile! 🚀 I'm passionate about web development, and I love technology and video games. Always looking for new challenges and opportunities to learn! 💡
 
-## 🚀 Tecnologie e Strumenti
+---
+
+## 🚀 Technologies & Tools
 
 
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -13,13 +15,15 @@ Benvenuto sul mio profilo GitHub! 🚀 Sono un appassionato di sviluppo web, amo
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📫 Contattami
+---
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/iltuonome/)
-- 📧 Email: [iltuoemail@example.com](mailto:iltuoemail@example.com)
-- 🌍 [Portfolio](https://iltuodominio.com)
+## 📫 Contact Me
 
-Sei il benvenuto a contribuire ai miei progetti o a connetterti con me per collaborazioni! 🚀
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourname/)
+- 📧 Email: (mailto:carlosvillar004@gmail.com)
+- 🌍 [Portfolio](https://yourdomain.com)
+
+You're welcome to contribute to my projects or connect with me for collaborations! 🚀
 <!---
 carlosvillaar/carlosvillaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
